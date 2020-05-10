@@ -1,0 +1,10 @@
+{
+    "name": "Netflix Skip Intro",
+    "version": "1.0",
+    "description": "Skip every intro on netflix without ever having to click.",
+    "skipIntro": {
+        "scripts": ["clickSkipIntro.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+}
